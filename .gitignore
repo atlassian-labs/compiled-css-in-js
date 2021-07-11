@@ -7,3 +7,4 @@ storybook-static
 coverage
 *.tsbuildinfo
 .parcel-cache
+cache
